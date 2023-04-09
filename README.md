@@ -76,7 +76,7 @@ $(".ZJon7Q.nv35GQ").each(function(index) {
 });
 ```
 
-- where `.ZJon7Q.nv35GQ` is previouslt found class of checkbox. We need to remove whitespaces and add `.` before class names to make our script functional.
+- where `.ZJon7Q.nv35GQ` is previously found class of checkbox. We need to remove whitespaces and add `.` before class names to make our script functional.
 - `index >= 0 && index <= 99` means that script will select only first 100 images in your Upload feed
 
 ## Step 6. Waiting for execution. 
