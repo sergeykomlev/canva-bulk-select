@@ -68,7 +68,7 @@ Perform following code in console and click `Enter` on your keyboard:
 
 ```js
 $(".ZJon7Q.nv35GQ").each(function(index) {
-  if (index >= 0 && index <= 99) {
+  if (index >= 0 && index <= 49) {
     $(this).click();
   } else {
     return;
@@ -77,7 +77,7 @@ $(".ZJon7Q.nv35GQ").each(function(index) {
 ```
 
 - where `.ZJon7Q.nv35GQ` is previously found class of checkbox. We need to remove whitespaces and add `.` before class names to make our script functional.
-- `index >= 0 && index <= 99` means that script will select only first 100 images in your Upload feed
+- `index >= 0 && index <= 49` means that script will select only first 50 images in your Upload feed
 
 ## Step 6. Waiting for execution. 
 
