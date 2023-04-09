@@ -85,4 +85,8 @@ After a few minutes (you need to wait a while script slecting your images) you w
 
 That's all! Enjoy your time! 
 
+If my solution helped you, there is nothing better than a cup of coffee as a thank you.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/graftype)
+
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/40078038/230748085-d1a9eb58-df82-46ea-b962-c5044fdb8329.png">
